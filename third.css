@@ -1,0 +1,30 @@
+h1{ color: red;text-align:center;font-size: 16;
+}
+#mainheading{ color:green; 
+    font-size:35px; 
+    text-align:center; 
+    background-color: skyblue;
+}
+.card{height:400px;
+    width:25%;
+    background:rgb(203, 233, 71);
+    float:left;
+    margin-left:7%;
+    overflow:scroll
+}
+.cardheading{text-align:center;
+    font-size:28px;
+    color:rgb(77, 50, 50)
+}
+.cardimage{width:100%;
+    height: 200px;
+    
+}
+.purple{
+    background-color:#A980DE;
+}
+
+.pink{
+    background-color:rgb(236, 136, 178)
+}
+.skyb{background-color:rgba(63, 63, 231, 0.575);}
